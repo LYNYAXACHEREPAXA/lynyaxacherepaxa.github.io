@@ -7,6 +7,10 @@ background:#f5c884;
   border: 4px dashed #4a2a01;
     border-radius: 10px;
 }
+footer img{
+    width:30px;
+    padding: 5px;
+}
 h1 {
 text-align:center;font-size:50px
 }
